@@ -41,7 +41,9 @@ To interact with the Skip List, run main executable. It will display a menu with
 1. **View highest stock price**: Displays the highest stock price currently stored in the Skip List.
 2. **Enter a stock price**: Allows you to enter a new stock price to be added to the Skip List.
 3. **Remove a stock price**: Enables deletion of a stock price from the Skip List.
-4. **Quit**: Exits the program.
+4. **Print SkipList**: Prints the full Skip List.
+5. **Search for a stock**: Identifies whether or not a stock is in the Skip List.
+6. **Quit**: Exits the program.
 
 Follow the prompts to select an option and interact with the Skip List accordingly.
 
